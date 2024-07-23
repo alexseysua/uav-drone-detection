@@ -1,2 +1,3 @@
 # uav-drone-detection
-bişeyler bişeyler
+
+dataset.yaml içerisinde konumu relative yapamadım. Kullaırken ona dikkat et.
